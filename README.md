@@ -1,2 +1,0 @@
-# UnityExample
-Repositorio de exemplo
